@@ -1,0 +1,51 @@
+
+
+body{
+    background-color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header_div{
+    background-color: aqua;
+}
+.header_div button{
+    margin-top: 30px;
+    width:100px;
+
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: papayawhip;
+}
+
+.header_div{
+    background-color: white;
+    color: red;
+}
+
+.header_div p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: grey;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px lightgray;
+}
